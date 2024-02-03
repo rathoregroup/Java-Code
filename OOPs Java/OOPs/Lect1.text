@@ -1,0 +1,6 @@
+yourAccount = new Account(); //     it means we are creating a new object which is called yourAccount.
+
+print(youtAccount);     \\if we declare a variable but not initialised and tried to print it we get an error message: variable yourAccount might have not initialized.
+
+We need constructor to initialise any variable "new".
+
